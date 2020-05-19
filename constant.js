@@ -2,8 +2,8 @@ var constant = {
     config: {
         // csapi: "https://csapi.damcorp.id/api/v2",
         // csapikey: "938382d6bbfc50d676b947678eb4cd8c536b2de82b3727568c0923d473e3521cc788e3b299b85e5bc33fd66234c4c16f0a3e989fbae78813e572e0df764fa1087c20c2e6088ae0b7c736fa6f01d3712e",
-        token: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1lIjoiUFQgRGFtIEtvcnBvcmluZG8gRGlnaXRhbCIsImFkZHJlc3MiOiIiLCJwaWMiOiIiLCJpc19kZWxldGUiOmZhbHNlLCJkYXRlX2NyZWF0ZWQiOiIyMDE4LTEwLTI0VDA2OjU4OjMxLjIwN1oiLCJfaWQiOiI1YmQwMTgxN2Q0NDE5MjNkZGZhMTMyOTEifQ.iwVKK6MlnLDUFaRyTfJUfD0n7JYclXI0UdQsRjltq58",
-        number: "082110700160",
+        token: "token",
+        number: "number",
 	    whatsappApi: "https://waba.damcorp.id/",
         cms_uri: "http://localhost:6212",
         cms_token: "damcorp-123",
